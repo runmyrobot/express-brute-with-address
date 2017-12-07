@@ -1,7 +1,7 @@
 {
-  "name": "express-brute",
+  "name": "express-brute-with-address",
   "version": "1.0.1",
-  "description": "A brute-force protection middleware for express routes that rate limits incoming requests",
+  "description": "A brute-force protection middleware for express routes that rate limits incoming requests, with recording ip address",
   "keywords": [
     "brute",
     "force",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:AdamPflug/express-brute.git"
+    "url": "git@github.com/runmyrobot/express-brute-with-address.git"
   },
   "devDependencies": {
     "chai": "~3.5.0",
